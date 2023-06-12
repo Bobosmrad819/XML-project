@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kamioni>
+  <truck>
+    <naziv>Volvo</naziv>
+    <snaga>750hp</snaga>
+    <payload>6</payload>
+    <model>FH750</model>s
+  </truck>
+  <truck>
+    <naziv>Daf</naziv>
+    <snaga>480hp</snaga>
+    <payload>2</payload>
+    <model>XC</model>
+  </truck>
+  <truck>
+    <naziv>Daf</naziv>
+    <snaga>540hp</snaga>
+    <payload>6</payload>
+    <model>XF</model>
+  </truck>
+  <truck>
+    <naziv>Mercedes-benz</naziv>
+    <snaga>450hp</snaga>
+    <payload>6</payload>
+    <model>Actros</model>
+  </truck>
+  <truck>
+    <naziv>Scania</naziv>
+    <snaga>770hp</snaga>
+    <payload>6</payload>
+    <model>s770</model>
+  </truck>
+  <truck>
+    <naziv>Scania</naziv>
+    <snaga>730hp</snaga>
+    <payload>6</payload>
+    <model>r730</model>
+  </truck>
+</kamioni>
